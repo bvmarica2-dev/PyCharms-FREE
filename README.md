@@ -1,2 +1,2 @@
 # Download PyCharms Without Trial
-https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
+![Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-brightgreen)
