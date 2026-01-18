@@ -1,2 +1,2 @@
 # Download PyCharms Without Trial
-<span style="color:red">This Is Education</span>
+https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge
